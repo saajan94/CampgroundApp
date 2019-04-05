@@ -18,3 +18,4 @@ CampGuide is an application that uses Express.js, Node.js, and MongoDB to allow 
 * EJS
 * Express.js
 * Node.js
+* Passport
