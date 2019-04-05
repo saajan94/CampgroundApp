@@ -11,6 +11,7 @@ CampGuide is an application that uses Express.js, Node.js, and MongoDB to allow 
 ### Technologies Used
 * JavaScript
 * Bootstrap
+* REST
 * MongoDB
 * Mongoose
 * HTML
